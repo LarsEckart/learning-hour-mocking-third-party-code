@@ -27,7 +27,7 @@ dependencies {
     testImplementation("com.larseckart:junit-tcr-extensions:0.0.1")
     testImplementation("org.mockito:mockito-core:4.10.0")
     testImplementation("org.mockito:mockito-junit-jupiter:4.10.0")
-    testImplementation("com.squareup.okhttp3:mockwebserver3:5.0.0-alpha.10")
+    testImplementation("com.squareup.okhttp3:mockwebserver3:5.0.0-alpha.11")
     testImplementation("com.squareup.okhttp3:mockwebserver3-junit5:5.0.0-alpha.10")
 }
 
